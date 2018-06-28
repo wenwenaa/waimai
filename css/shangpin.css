@@ -1,0 +1,152 @@
+@import url(base.css);
+header{
+	width: 7.5rem;
+	height: 0.99rem;
+	background: #30b3ab;
+}
+.shang{
+	width: 7.1rem;
+	height: 0.89rem;
+	margin-left: 0.24rem;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.shang span{
+	font-size: 0.3rem;
+	color: #fff;
+}
+.shang i{
+	font-size: 0.45rem;
+	color: #fff;
+	line-height: 0.89rem;
+	display: block;
+}
+.shang .div{
+	height: 0.89rem;
+	width: 0.5rem;
+
+}
+.tutu{
+	width: 3.89rem;
+	height: 3.51rem;
+	margin: 0 auto;
+}
+.eryu{
+	width: 7.1rem;
+	height: 3.51rem;
+	background: #ffe6ad;
+	margin-left: 0.24rem;
+}
+.jieshao{
+	width: 7.1rem;
+	height: 1.27rem;
+	margin-left: 0.24rem;
+	margin-top: 0.62rem;
+	overflow: hidden;
+}
+.caimiing{
+	font-size: 0.3rem;
+	color: #000;
+	display: block;
+	float: left;
+	margin-right: 0.29rem;
+}
+.jiaqian{
+	font-size: 0.35rem;
+	color: #46b8b1;
+     display: block;
+     float: left;
+}
+.huahua{
+	width: 4.17rem;
+	height: 0.7rem;
+	margin-left: 0.14rem;
+	font-size: 0.22rem;
+	color: #8e8e8e;
+	float: left;
+	line-height: 0.38rem;
+}
+.anniu{
+	width: 0.5rem;
+	height: 0.5rem;
+	float: right;
+}
+.anniu i{
+	font-size: 0.5rem;
+	color: #46b8b1;
+	display: block;
+}
+.yiju{
+	width: 100%;
+	height: 0.6rem;
+	margin-top: 0.57rem;
+}
+.pinjia{
+	width: 1.17rem;
+	height: 0.66rem;
+	margin-top: 0.4rem;
+	margin-left: 0.24rem;
+	font-size: 0.28rem;
+	color: #000;
+	text-align: center;
+	line-height: 0.66rem;
+}
+.huayu ul{
+	width: 6.62rem;
+	height: 4.87rem;
+	margin-top: 0.12rem;
+	margin-left: 0.5rem;
+	display: flex;
+	flex-wrap: wrap;
+	align-content: space-between;
+}
+.huayu ul li{
+	width: 6.62rem;
+	height: 1.03rem;
+	background: #fff;
+	box-shadow: 0 0 0.1rem 0.02rem #dbd9d8;
+}
+.huayu i{
+	font-size: 0.31rem;
+	color: #2eaaa2;
+	float: right;
+	display: block;
+}
+.datouxiang{
+	width: 0.82rem;
+	height: 0.83rem;
+	margin-top: 0.1rem;
+	margin-left: 0.07rem;
+	float: left;
+}
+.pinpin{
+	width: 4.85rem;
+	height: 0.95rem;
+	float: left;
+	margin-top: 0.1rem;
+	margin-left: 0.07rem;
+}
+.shangpin{
+	width: 100%;
+	height: 0.42rem;
+}
+.zuozuo{
+	font-size: 0.24rem;
+	color: #000;
+	display: block;
+	float: left;
+	line-height: 0.42rem;
+}
+.youyou{
+	font-size: 0.2rem;
+	color: #000;
+	display: block;
+	float: right;
+	line-height: 0.42rem;
+}
+.xiapin{
+	font-size: 0.2rem;
+	color: #000;
+	margin-top: 0.12rem;
+}

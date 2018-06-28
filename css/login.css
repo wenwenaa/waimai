@@ -1,0 +1,151 @@
+@import url('base.css');
+header{
+	width: 7.5rem;
+	height: 0.82rem;
+	overflow: hidden;
+	position: relative;
+}
+.zhuce{
+	width: 0.88rem;
+	height: 0.49rem;
+	background: #b4b4b4;
+	float: right ;
+	border-radius: 0.25rem;
+	font-size: 0.24rem;
+	text-align: center;
+	line-height: 0.49rem;
+	margin-top: 0.16rem;
+}
+.zhuce a{
+	color: #fff;
+}
+.touxiang{
+	width: 2.24rem;
+    height: 2.24rem;
+    margin: 0 auto;
+    border-radius: 50%;
+    position: absolute;
+    top:0.61rem;
+    left:2.59rem;
+    overflow: hidden;
+}
+.wenzi{
+	width: 2.32rem;
+	height: 0.66rem;
+	margin: 0 auto;
+	margin-top: 2.82rem;
+}
+.yingwen{
+	font-size: 0.24rem;
+	color: #000;
+	display: block;
+	text-align: center;
+}.zhongwen{
+	font-size: 0.24rem;
+	color: #000;
+	margin-top: 0.18rem;
+	display: block;
+	text-align: center;
+}
+.kuang{
+	width: 4.7rem;
+	height: 3.75rem;
+	margin: 0 auto;
+	display: flex;
+    flex-wrap: wrap;
+    align-content: space-between;
+    justify-content: center;
+    margin-top: 0.93rem;
+}
+.kuang .shuru{
+	width: 4.5rem;
+	height: 0.91rem;
+	border: 0.02rem solid #000;
+	border-radius: 0.475rem;
+}
+.tubiao{
+	width: 0.5rem;
+	height: 0.44rem;
+	margin-top: 0.23rem;
+	margin-left: 0.2rem;
+	float: left;
+}
+input{
+	float: left;
+	border-top-right-radius: 0.475rem;
+	border-bottom-right-radius:0.475rem; 
+	width: 2.93rem;
+	height: 0.85rem;
+	display: block;
+	border: none;
+	padding: 0;
+	box-sizing: border-box;
+	margin-top: 0.05rem;
+	
+}
+input:focus{
+	outline: none;
+}
+.tubiao i{
+	font-size: 0.36rem;
+	color: #4bbdb6;
+	display: block;
+	line-height: 0.44rem;
+}
+
+.huoqu{
+	width: 0.82rem;
+	height: 0.82rem;
+	background: #4bbdb6;
+	border-radius: 50%;
+	right: 0.06rem;
+	top: 0.45rem;
+	float: right;
+	margin-top: 0.045rem;
+	margin-right: 0.02rem;
+	font-size: 0.26rem;
+	color: #fff;
+	line-height: 0.82rem;
+	text-align: center;
+}
+.enter{
+	width: 1.62rem;
+	height: 1.62rem;
+	background: #aaaaaa;
+	border-radius: 50%;
+	margin: 0 auto;
+	font-size: 0.3rem;
+	color: #fff;
+	text-align: center;
+	line-height: 1.62rem;
+	margin-top: 0.43rem;
+}
+
+.zuochang{
+	width: 1.545rem;
+	height: 0.04rem;
+	background: #dcdcdc;
+	float: left;
+	margin-top: 0.22rem;
+}
+.xia{
+	width: 7.5rem;
+	height: 0.48rem;
+	margin-top: 0.48rem;
+}
+.xieyi{
+	font-size: 0.20rem;
+	color: #000;
+	text-align: center;
+	width: 4.41rem;
+	height: 0.48rem;
+	line-height: 0.48rem;
+	float: left;
+}
+.youchang{
+	width: 1.545rem;
+	height: 0.04rem;
+	background: #dcdcdc;
+	float: right;
+	margin-top: 0.22rem;
+}

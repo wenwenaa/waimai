@@ -1,0 +1,348 @@
+@import url(base.css);
+header{
+	width: 100%;
+	height: 0.9rem;
+	background: #30b3ab;
+
+}
+.dingwei{
+	width: 2rem;
+	height: 0.9rem;
+	float: left;
+    margin-right: 0.2rem;
+ 
+
+}
+.search{
+	width: 1.27rem;
+	height: 0.35rem;
+	background: #9adad6;
+	float: right;
+	border-radius: 0.25rem;
+	margin-right: 0.2rem;
+    margin-top: 0.29rem;
+}
+.search a{
+	width: 1.27rem;
+	height: 0.35rem;
+	background: #9adad6;
+	float: right;
+	border-radius: 0.25rem;
+	display: block;
+}
+.dingwei .icon-dingwei{
+	font-size: 0.25rem;
+	color: #fff;
+	display: block;
+	float: left;
+	line-height: 0.9rem;
+	padding-left: 0.2rem;
+	margin-right: 0.05rem;
+}
+.dingwei span{
+	font-size: 0.25rem;
+	color: #fff;
+	display: block;
+	float: left;
+	line-height: 0.9rem;
+}
+.search .icon-suosou{
+	display: block;
+	font-size: 0.25rem;
+	color: #fff;
+	float: left;
+	line-height: 0.35rem;
+	padding-left: 0.1rem;
+
+}
+.search input{
+	display: block;
+	height: 100%;
+	width: 0.8rem;
+	border-top-right-radius: 0.25rem;
+	border-bottom-right-radius: 0.25rem;
+	border: none;
+	float: right;
+	padding: 0;
+	box-sizing: border-box;
+	background: #9adad6;
+}
+.search input:focus{
+	outline: none;
+}
+
+.swiper-container{
+	width: 7.02rem;
+    height: 3.05rem;
+    
+}
+
+.swiper-slide img{
+	width: 7.02rem;
+	height: 100%;
+	border-radius: 4px;
+}
+.swiper-pagination-bullet-active{
+	background: #30b3ab;
+}
+
+.tubiao{
+	width: 7.02rem;
+	height: 3.68rem;
+	margin: 0 auto;
+	border-bottom: 1px solid #d3d3d3;
+}
+.tubiao li{
+	width: 1.755rem;
+	height: 1.915rem;
+	float: left;
+    overflow: hidden;
+}
+.tubiao li a{
+	display: block;
+	width: 1.04rem;
+	height: 1.04rem;
+	border-radius: 50%;
+	background: #2eaaa2;
+	margin: 0 auto;
+	margin-top: 0.1rem;
+	border: 0.09rem solid #a29894;
+}
+.tubiao li .wenzi{
+	font-size: 0.27rem;
+	color: #000;
+	height: 0.27rem;
+	display: block;
+	text-align: center;
+	margin-top: 0.12rem;
+	margin-bottom: 0.12rem;
+	
+}
+.tubiao li i{
+	font-size: 0.6rem;
+	color: #fff;
+	text-align: center;
+	line-height: 1.04rem;
+	display: block;
+}
+.tuijian{
+	width: 7.02rem;
+	height: 1.2rem;
+	margin-left: 0.24rem;
+	overflow: hidden;
+
+}
+.zuo{
+	width: 1.09rem;
+	height: 0.54rem;
+    margin-left: 1.72rem;
+    float: left;
+}
+.juxing{
+	width: 0.79rem;
+	height: 0.04rem;
+	background: #9dd7d3;
+	float: left;
+	margin-top: 0.25rem;
+}
+.zuo .yuandian{
+	width: 0.14rem;
+	height: 0.14rem;
+	border-radius: 50%;
+	background: #2eaaa2;
+	float: left;
+	margin-top: 0.2rem;
+	margin-left: 0.16rem;
+}
+.zhong{
+	width: 1.41rem;
+	height: 0.54rem;
+	font-size: 0.26rem;
+	color: #2eaaa2;
+	text-align: center;
+	line-height: 0.54rem;
+	float: left;
+}
+.you .yuandian{
+    width: 0.14rem;
+	height: 0.14rem;
+	border-radius: 50%;
+	background: #2eaaa2;
+	float: left;
+	margin-top: 0.2rem;
+	margin-right: 0.16rem;
+}
+.you{
+	width: 1.09rem;
+	height: 0.54rem;
+    float: left;
+}
+.tuijian ul{
+	width: 7.02rem;
+	height: 0.66rem;
+	float: left;
+}
+.tuijian ul li{
+	width: 1.34rem;
+	height: 0.3rem;
+	border: 0.02rem solid #2eaaa2;
+	margin-right: 0.5rem;
+	float: left;
+	margin-top: 0.07rem;
+	border-radius: 0.25rem;
+	font-size: 0.22rem;
+	text-align: center;
+	line-height: 0.3rem;
+	color: #2eaaa2;
+}
+.baxia li:last-child{
+	margin-right: 0rem;
+}
+
+
+.baxia li i{
+	font-size: 0.22rem;
+	display: block;
+	color: #2eaaa2;
+	float: left;
+	margin-left: 0.05rem;
+}
+.baxia li a{
+	font-size: 0.22rem;
+	display: block;
+	color: #2eaaa2;
+	float: left;
+	margin-left: 0.2rem;
+}
+.baxia li span{
+	font-size: 0.22rem;
+	
+	float: left;
+	display: block;
+}
+.dianpu{
+	width: 7.02rem;
+	margin-bottom: 0.98rem;
+}
+.dianpu li{
+	width: 7.02rem;
+	height: 1.54rem;
+	margin-bottom: 0.29rem;
+	border-bottom: 0.01rem solid #d3d3d3;
+	margin-left: 0.24rem;
+}
+.diantutu{
+	width: 1.37rem;
+	height: 1.37rem;
+	margin-left: 0.07rem;
+	float: left;
+	display: block;
+
+}
+.jieshao{
+	
+	float: left;
+	margin-left: 0.21rem;
+}
+.shuzi1{
+	/* width: 2.5rem; */
+	height: 0.4rem;
+	font-size: 0.27rem;
+	color: #1d2222;
+	font-weight: bold;
+	border-bottom: 0.01rem dashed #494d4d;
+}
+.jieshao .guo{
+	width: 3.47rem;
+	height: 0.31rem;
+	font-size: 0.22rem;
+	color: #1d2222;
+	/* text-align: center; */
+	line-height: 0.31rem;
+	display: block;
+	margin-top: 0.1rem;
+}
+.jieshao .rou{
+	width: 3.47rem;
+	height: 0.24rem;
+	margin-top: 0.05rem;
+}
+.rou span{
+	font-size: 0.22rem;
+	color: #1d2222;
+	/* width: 0.97rem; */
+	height: 0.22rem;
+	display:block;
+	float: left;
+	padding-left: 0.13rem;
+
+}
+.rou span:first-child{
+	border-right: 0.01rem solid #6f7272;
+	padding-right: 0.13rem;
+	padding-left: 0rem;
+	float: left;
+}
+.xiaxia{
+	height: 0.44rem;
+	
+}
+.huiyuan{
+	border: 0.01rem solid #39afa7;
+	font-size: 0.22rem;
+	color: #39afa7;
+	line-height: 0.27rem;
+	text-align: center;
+	border-radius: 0.25rem;
+	margin-top: 0.1rem;
+	float: left;
+	padding-left: 0.1rem;
+	padding-right: 0.1rem;
+}
+.xiaxia span{
+	font-size: 0.22rem;
+	color: #1d2222 ;
+	display: block;
+	float: left;
+	margin-left: 0.1rem;
+	margin-top: 0.1rem;
+}
+.dibu{
+	width: 100%;
+	height: 0.98rem;
+	background: #fff;
+	position: fixed;
+	left: 0;
+	bottom: 0;
+    display: flex;
+    justify-content: space-between;
+}
+.dibu li{
+	
+	width: 1.87rem;
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	justify-content: space-around;
+}
+.dibu a{
+  
+   display: block;
+	
+}
+.dibu a i{
+	display: block;
+	font-size: 0.46rem;
+	color: #8b8b8f;
+}
+.dibu li a span{
+	font-size: 0.22rem;
+	color: #8b8b8f;
+	display: block;
+}
+ .dibu .icon-weibiaoti1{
+	color: #30b3ab;
+}
+ .dibu .diyige{
+	color:#30b3ab ;
+}

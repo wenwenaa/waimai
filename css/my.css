@@ -1,0 +1,188 @@
+@import url('base.css');
+header{
+	width: 7.5rem;
+	height: 2.58rem;
+	background: #30b3ab;
+}
+.shang{
+	width: 7.1rem;
+	height: 0.89rem;
+	margin-left: 0.24rem;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.shang span{
+	font-size: 0.3rem;
+	color: #fff;
+}
+.shang i{
+	font-size: 0.45rem;
+	color: #fff;
+	line-height: 0.89rem;
+	display: block;
+}
+.shang .div{
+	height: 0.89rem;
+	width: 0.5rem;
+
+}
+.xia{
+	width: 7.1rem;
+	height: 1.01rem;
+	margin-left: 0.24rem;
+	margin-top: 0.52rem;
+}
+.touxiang{
+	width: 1rem;
+	height: 1rem;
+	border-radius: 50%;
+	margin-left: 0.12rem;
+	float: left;
+	overflow: hidden;
+}
+.xinxi{
+	width: 2rem;
+	height: 0.71rem;
+	float: left;
+	margin-left: 0.5rem;
+}
+.youan{
+	width: 0.34rem;
+	height: 0.71rem;
+	float: right;
+}
+.youan .icon-dayuhao{
+	font-size: 0.27rem;
+	color: #fff;
+	display: block;
+	text-align: center;
+	line-height: 0.71rem;
+}
+.xinxi .mingzi{
+	font-size: 0.2rem;
+	color: #fff;
+	display: block;
+}
+.sjihao{
+	width: 2rem;
+	height: 0.24rem;
+	margin-top: 0.2rem;
+}
+.xinxi .shouji{
+	font-size: 0.2rem;
+	color: #fff;
+	display: block;
+	float: left;
+}
+.sjihao .icon-shouji{
+	font-size: 0.2rem;
+	color: #fff;
+	display: block;
+	float: left;
+}
+.diti{
+	width: 7.5rem;
+	height: 1.12rem;
+	border-bottom: 0.09rem solid #eaeaea;
+}
+.diti ul{
+	width: 5.48rem;
+	height: 100%;
+	margin: 0 auto;
+	display: flex;
+	justify-content: space-between;
+}
+.diti ul li{
+	width: 0.92rem;
+	height: 1.12rem;
+}
+.shu{
+	font-size: 0.24rem;
+	color: #30b3ab;
+	display: block;
+	text-align: center;
+	margin-top: 0.38rem;
+}
+.qian{
+	font-size: 0.22rem;
+	color: #000;
+	display: block;
+	text-align: center;
+	margin-top: 0.13rem;
+}
+.fenlei{
+	width: 7.5rem;
+	height: 5rem;
+}
+.fenlei li{
+	width: 2.473rem;
+	height: 2.48rem;
+	border-bottom: 0.04rem solid #eaeaea;
+	border-right: 0.04rem solid #eaeaea;
+	float: left;
+}
+.fenlei li:nth-child(3n){
+	border-right:none;
+}
+.zhonghe{
+	width: 1.56rem;
+	height: 0.38rem;
+	margin: 1.11rem auto;
+}
+.zhonghe i{
+	font-size: 0.38rem;
+	color: #30b3ab;
+	display: block;
+	float: left;
+	margin-right: 0.02rem;
+}
+.zhonghe span{
+	font-size: 0.22rem;
+	color: #000;
+	display: block;
+	float: left;
+	line-height: 0.38rem;
+}
+.zhonghe .icon-shoucangcopy{
+	color: red;
+}
+.dibu{
+	width: 100%;
+	height: 0.98rem;
+	background: #fff;
+	position: fixed;
+	left: 0;
+	bottom: 0;
+    display: flex;
+    justify-content: space-between;
+}
+.dibu li{
+	
+	width: 1.87rem;
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	justify-content: space-around;
+}
+.dibu a{
+  
+   display: block;
+	
+}
+.dibu a i{
+	display: block;
+	font-size: 0.46rem;
+	color: #8b8b8f;
+}
+.dibu li a span{
+	font-size: 0.22rem;
+	color: #8b8b8f;
+	display: block;
+}
+ .dibu .icon-wode{
+	color: #30b3ab;
+}
+ .dibu .diyige{
+	color:#30b3ab ;
+}
